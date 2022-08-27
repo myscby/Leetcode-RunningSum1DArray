@@ -13,6 +13,8 @@ public class Solution {
             arr[i] = total;
         }
         System.out.print(Arrays.toString(arr));
+        
+        //Try
     }
 
 }
